@@ -1,0 +1,13 @@
+fastapi~=0.115.14
+langchain_community~=0.3.26
+requests~=2.32.4
+sentence-transformers
+langchain>=0.2.2
+langchain-community>=0.0.26
+langchain-huggingface>=0.0.3
+qdrant-client>=1.8.0
+openai=1.92.3
+langgraph>=0.0.18
+python-dotenv
+langchain-qdrant=0.2.0
+langchain-community>=0.0.30
